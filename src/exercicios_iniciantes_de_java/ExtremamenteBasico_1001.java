@@ -2,7 +2,7 @@ package exercicios_iniciantes_de_java;
 
 import java.util.Scanner;
 
-public class ExtremamenteBasico {
+public class ExtremamenteBasico_1001 {
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
         int A = entrada.nextInt();
